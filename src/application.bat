@@ -1,5 +1,5 @@
-### application.bat - 2015 - Merel ###
- echo "Copyright Benoit MEREL - 2015"
+### application.bat - 2015 - Guillet ###
+ echo "Copyright Thomas Guillet - 2015"
 
 version = "2"
 build_hour = "11H00"
