@@ -1,4 +1,4 @@
-### application.bat - 2015 - Guillet ###
+### application.bat - 2015 - Thibault ROGER ###
  echo "Copyright Thomas Guillet - 2015"
 
 version = "2"
