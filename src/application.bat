@@ -1,4 +1,4 @@
-### application.bat - 201x - Merel ###
- echo "Copyright Benoit MEREL - 201x"
+### application.bat - 2015 - Merel ###
+ echo "Copyright Benoit MEREL - 2015"
 echo "Build : 10:00"
-echo "version 1.1"
+echo "version 1.2"
