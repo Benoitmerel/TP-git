@@ -1,6 +1,2 @@
 *.exe
 *.dll
-
-/bin
-!/bin/application.xml
-
